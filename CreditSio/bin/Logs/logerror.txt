@@ -1,0 +1,450 @@
+
+Log Entry : 15:04:51 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:27:36 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:49:27 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:54:19 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:55:43 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:59:22 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:04:16 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:05:11 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:06:38 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:11:52 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:12:37 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:14:30 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:14:34 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:15:39 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:16:03 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:17:00 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:20:30 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:28:39 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:36:51 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 16:38:31 mercredi 6 décembre 2023
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 20:31:49 jeudi 22 février 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 20:36:25 jeudi 22 février 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 20:38:36 jeudi 22 février 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 21:15:09 jeudi 22 février 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 11:11:07 lundi 4 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 13:05:11 mercredi 20 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 13:08:25 mercredi 20 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 13:15:46 mercredi 20 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 13:16:25 mercredi 20 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 13:29:29 mercredi 20 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:42:53 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:43:41 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:46:49 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:52:20 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:14:59 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 18:41:43 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 18:44:02 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 19:01:45 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 19:04:13 mardi 26 mars 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 10:43:57 mercredi 17 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 10:43:57 mercredi 17 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 10:44:18 mercredi 17 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 10:44:18 mercredi 17 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 10:45:53 mercredi 17 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 10:45:53 mercredi 17 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 10:46:53 mercredi 17 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 10:46:53 mercredi 17 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 10:47:03 mercredi 17 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 10:47:03 mercredi 17 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 10:47:38 mercredi 17 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:31:29 jeudi 18 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:32:48 jeudi 18 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:33:16 jeudi 18 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:38:24 jeudi 18 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:40:35 jeudi 18 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:46:15 mardi 23 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:29:06 mardi 23 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:30:47 mardi 23 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 15:32:19 mardi 23 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 10:49:20 mercredi 24 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 10:52:38 mercredi 24 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 11:18:55 mercredi 24 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 11:20:48 mercredi 24 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 11:20:51 mercredi 24 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 11:22:57 mercredi 24 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 11:23:01 mercredi 24 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 11:24:02 mercredi 24 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 11:24:04 mercredi 24 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 11:32:33 mercredi 24 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 09:13:41 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 09:15:51 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 09:43:38 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 09:45:39 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 09:46:59 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 09:53:42 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 09:59:53 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 10:17:10 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:16:38 jeudi 25 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 08:12:40 lundi 29 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:30:19 lundi 29 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:09:10 mardi 30 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 14:09:10 mardi 30 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 14:10:45 mardi 30 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 14:10:45 mardi 30 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 14:11:20 mardi 30 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 14:11:20 mardi 30 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 14:11:52 mardi 30 avril 2024
+  :
+  :Connection : erreur de connexion au serveur
+-------------------------------
+
+Log Entry : 14:11:52 mardi 30 avril 2024
+  :
+  :DBInterface : erreur SQL
+-------------------------------
+
+Log Entry : 14:12:26 mardi 30 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
+
+Log Entry : 14:19:50 mardi 30 avril 2024
+  :
+  :DBInterface : l'utilisateur phauchon vient de se connecter
+-------------------------------
